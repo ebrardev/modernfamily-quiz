@@ -31,13 +31,18 @@ function App() {
               {/* Quiz Component */}
                <Quiz /> 
               {/* Sign Out Button */}
-              <button 
+              <button  className='sign-out-button'
                 onClick={signOut} 
                 style={{ 
                   margin: '20px', 
                   fontSize: '0.8rem', 
-                  padding: '5px 10px', 
-                  marginTop: '20px'
+                  padding: '10px 10px', 
+                  marginTop: '20px',
+                  backgroundColor: 'blue',
+                  color: 'white',
+                  border: 'none',
+                  borderRadius: '5px',
+                  cursor: 'pointer'
                 }}
               >
                 Sign Out
