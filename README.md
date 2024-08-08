@@ -26,4 +26,7 @@ Follow these instructions to run the project on your local machine.
    npm install
    npm start
 
+   
+<img width="1439" alt="Screenshot 2024-08-08 at 18 29 23" src="https://github.com/user-attachments/assets/d648f9b3-6401-4518-936e-75667b0fabc6">
+
 live : https://main.d2m04g7zfj74pn.amplifyapp.com
