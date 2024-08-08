@@ -1,6 +1,7 @@
 import React, { useState } from 'react';
 import quizData from './quizData';
 
+
 function Quiz() {
   const [currentQuestion, setCurrentQuestion] = useState(0);
   const [score, setScore] = useState(0);
@@ -33,6 +34,7 @@ function Quiz() {
 
   return (
     <div className='quiz'>
+        <h1>  Modern Family Quiz</h1>
       {showScore ? (
         <div className='score-section'>
           You scored {score} out of {quizData.length}
