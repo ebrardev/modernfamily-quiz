@@ -48,6 +48,56 @@ const quizData = [
       question: "What is the name of Mitchell and Claire's mother?",
       options: ["Dede", "Gloria", "Lily", "Cam"],
       answer: "Dede"
+    },
+    {
+      question: "Which character worked as a real estate agent?",
+      options: ["Phil Dunphy", "Jay Pritchett", "Mitchell Pritchett", "Cam Tucker"],
+      answer: "Phil Dunphy"
+    },
+    {
+      question: "What is the name of the country where Gloria is originally from?",
+      options: ["Mexico", "Colombia", "Venezuela", "Argentina"],
+      answer: "Colombia"
+    },
+    {
+      question: "Which character is a lawyer?",
+      options: ["Phil Dunphy", "Mitchell Pritchett", "Cam Tucker", "Jay Pritchett"],
+      answer: "Mitchell Pritchett"
+    },
+    {
+      question: "What is the name of Claire and Phil's oldest daughter?",
+      options: ["Alex", "Haley", "Lily", "Gloria"],
+      answer: "Haley"
+    },
+    {
+      question: "What instrument does Cam Tucker play?",
+      options: ["Piano", "Drums", "Violin", "Accordion"],
+      answer: "Drums"
+    },
+    {
+      question: "Which character loves to garden?",
+      options: ["Jay Pritchett", "Phil Dunphy", "Cam Tucker", "Mitchell Pritchett"],
+      answer: "Mitchell Pritchett"
+    },
+    {
+      question: "What is the name of the company that Jay owns?",
+      options: ["Pritchett's Closets", "Closet Heaven", "Jay's Closets", "Modern Closets"],
+      answer: "Pritchett's Closets"
+    },
+    {
+      question: "Which character often dresses up in costumes?",
+      options: ["Cam Tucker", "Phil Dunphy", "Gloria Pritchett", "Mitchell Pritchett"],
+      answer: "Cam Tucker"
+    },
+    {
+      question: "What is the nickname that Phil Dunphy often calls his wife Claire?",
+      options: ["Honey", "Love", "Sweetheart", "Claire Bear"],
+      answer: "Claire Bear"
+    },
+    {
+      question: "What is the name of Phil and Claire's son?",
+      options: ["Manny", "Joe", "Luke", "Jay"],
+      answer: "Luke"
     }
   ];
   
